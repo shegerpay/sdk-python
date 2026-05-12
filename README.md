@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="ShegerPay" width="200" /></p>
+
 # ShegerPay Python SDK
 
 Official Python SDK for ShegerPay — verify Ethiopian bank payments (CBE, Telebirr, BOA, Awash) in your app.
