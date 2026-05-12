@@ -41,4 +41,4 @@ print(link["url"])
 ## Docs
 - Full docs: https://shegerpay.com/docs
 - API reference: https://shegerpay.com/docs/api
-- Support: support@shegerpay.com | https://t.me/shegerpay0
+- Support: support@shegerpay.com | https://t.me/shegerpay_0
